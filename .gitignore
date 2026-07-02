@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+streamlit_status_gizi.zip
+
+.env
+.env.*
+
+.DS_Store
